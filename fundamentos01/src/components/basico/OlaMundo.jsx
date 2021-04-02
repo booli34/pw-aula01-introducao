@@ -6,7 +6,7 @@ export default () =>{
 
     return(
     <>
-        <h2>Componente OlaMundo</h2>
+        <h2>Componente OlasMundo</h2>
         
         <p>{informacao}</p>
     </>
